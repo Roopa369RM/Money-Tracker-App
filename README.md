@@ -41,9 +41,9 @@ Money-Tracker/
 
 ## 📸 Screenshots
 
-![Money Tracker App Screenshot 1](images/photo1.png)
+![Money Tracker App Screenshot 1]images/phot01.png
 
-![Money Tracker App Screenshot 2](images/photo2.png)
+![Money Tracker App Screenshot 2]images/phot2.png
 
 📌 Replace images/screenshot.png with your actual image path.
 
